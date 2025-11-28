@@ -4,3 +4,19 @@ p {
 h1{
     background-color: blueviolet;
 }
+form {
+    display: flex;
+    flex-direction: column;
+    padding-left: 32%;
+    padding-right: 32%;
+}
+input {
+    margin: 2%;
+}
+button{
+    margin:2%;
+    background-color: darkcyan;
+}
+textarea{
+    margin:2%;
+}
