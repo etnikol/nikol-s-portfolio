@@ -20,3 +20,8 @@ button{
 textarea{
     margin:2%;
 }
+
+button a {
+    color: white;
+    text-decoration: none;
+}
